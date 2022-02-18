@@ -1,0 +1,398 @@
+[
+  {
+    "id": 12,
+    "type": 0,
+    "domain": "clients4.google.com",
+    "enabled": 1,
+    "date_added": 1634365144,
+    "date_modified": 1642040245,
+    "comment": null
+  },
+  {
+    "id": 13,
+    "type": 0,
+    "domain": "dns.msftncsi.com",
+    "enabled": 1,
+    "date_added": 1622170270,
+    "date_modified": 1622170270,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 20,
+    "type": 0,
+    "domain": "xboxlive.com",
+    "enabled": 1,
+    "date_added": 1635639387,
+    "date_modified": 1642040245,
+    "comment": null
+  },
+  {
+    "id": 37,
+    "type": 0,
+    "domain": "beacons5.gvt2.com",
+    "enabled": 1,
+    "date_added": 1638169063,
+    "date_modified": 1642040245,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 38,
+    "type": 0,
+    "domain": "webadvisorc.rest.gti.mcafee.com",
+    "enabled": 1,
+    "date_added": 1638169068,
+    "date_modified": 1642040245,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 39,
+    "type": 0,
+    "domain": "beacons5.gvt3.com",
+    "enabled": 1,
+    "date_added": 1638169075,
+    "date_modified": 1642040245,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 41,
+    "type": 0,
+    "domain": "device-messaging-na.amazon.com",
+    "enabled": 1,
+    "date_added": 1638169133,
+    "date_modified": 1642040245,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 42,
+    "type": 0,
+    "domain": "teredo.ipv6.microsoft.com",
+    "enabled": 1,
+    "date_added": 1638169137,
+    "date_modified": 1642040245,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 43,
+    "type": 0,
+    "domain": "fonts.gstatic.com",
+    "enabled": 1,
+    "date_added": 1638169141,
+    "date_modified": 1642040245,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 56,
+    "type": 0,
+    "domain": "mip.api.mcafeewebadvisor.com",
+    "enabled": 1,
+    "date_added": 1638905073,
+    "date_modified": 1642040245,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 57,
+    "type": 0,
+    "domain": "nexusrules.officeapps.live.com",
+    "enabled": 1,
+    "date_added": 1638905082,
+    "date_modified": 1642040245,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 65,
+    "type": 0,
+    "domain": "teams.events.data.microsoft.com",
+    "enabled": 1,
+    "date_added": 1640298310,
+    "date_modified": 1642040245,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 88,
+    "type": 0,
+    "domain": "app-measurement.com",
+    "enabled": 1,
+    "date_added": 1642795798,
+    "date_modified": 1642795798,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 89,
+    "type": 0,
+    "domain": "brahe.apptimize.com",
+    "enabled": 1,
+    "date_added": 1642795825,
+    "date_modified": 1642795825,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 90,
+    "type": 0,
+    "domain": "smetrics.att.com",
+    "enabled": 1,
+    "date_added": 1642795841,
+    "date_modified": 1642795841,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 91,
+    "type": 0,
+    "domain": "vortex.data.microsoft.com",
+    "enabled": 1,
+    "date_added": 1642795844,
+    "date_modified": 1642795844,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 93,
+    "type": 0,
+    "domain": "ssl.google-analytics.com",
+    "enabled": 1,
+    "date_added": 1642795848,
+    "date_modified": 1642795848,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 94,
+    "type": 0,
+    "domain": "www.googleadservices.com",
+    "enabled": 1,
+    "date_added": 1642795850,
+    "date_modified": 1642795850,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 95,
+    "type": 0,
+    "domain": "contentpersonalization.api.intuit.com",
+    "enabled": 1,
+    "date_added": 1643562426,
+    "date_modified": 1643562426,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 96,
+    "type": 0,
+    "domain": "sdk.iad-03.braze.com",
+    "enabled": 1,
+    "date_added": 1643562428,
+    "date_modified": 1643562428,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 97,
+    "type": 0,
+    "domain": "logging.api.intuit.com",
+    "enabled": 1,
+    "date_added": 1643562436,
+    "date_modified": 1643562436,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 98,
+    "type": 0,
+    "domain": "eventbus.intuit.com",
+    "enabled": 1,
+    "date_added": 1643562441,
+    "date_modified": 1643562441,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 99,
+    "type": 0,
+    "domain": "trinity.platform.intuit.com",
+    "enabled": 1,
+    "date_added": 1643562446,
+    "date_modified": 1643562446,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 100,
+    "type": 0,
+    "domain": "analytics.api.appdynamics.com",
+    "enabled": 1,
+    "date_added": 1643562451,
+    "date_modified": 1643562451,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 101,
+    "type": 0,
+    "domain": "events.appsflyer.com",
+    "enabled": 1,
+    "date_added": 1643868242,
+    "date_modified": 1643868242,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 105,
+    "type": 0,
+    "domain": "int.dewrain.site",
+    "enabled": 1,
+    "date_added": 1644507675,
+    "date_modified": 1644507675,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 106,
+    "type": 0,
+    "domain": "co.dewrain.site",
+    "enabled": 1,
+    "date_added": 1644507693,
+    "date_modified": 1644507693,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 107,
+    "type": 0,
+    "domain": "apppersonalization.api.intuit.com",
+    "enabled": 1,
+    "date_added": 1644507723,
+    "date_modified": 1644507723,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 109,
+    "type": 0,
+    "domain": "monitoring-sdk.experimentation.intuit.com",
+    "enabled": 1,
+    "date_added": 1644507727,
+    "date_modified": 1644507727,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 110,
+    "type": 0,
+    "domain": "consumerinsights.api.intuit.com",
+    "enabled": 1,
+    "date_added": 1644507739,
+    "date_modified": 1644507739,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 112,
+    "type": 0,
+    "domain": "znb4vlzqzcl6kqps9-intuit.siteintercept.qualtrics.com",
+    "enabled": 1,
+    "date_added": 1644507751,
+    "date_modified": 1644507751,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 113,
+    "type": 0,
+    "domain": "config-partner-platform-client-933515454346.s3.amazonaws.com",
+    "enabled": 1,
+    "date_added": 1644507753,
+    "date_modified": 1644507753,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 114,
+    "type": 0,
+    "domain": "api.huqindustries.co.uk",
+    "enabled": 1,
+    "date_added": 1645140910,
+    "date_modified": 1645140910,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 115,
+    "type": 0,
+    "domain": "mobile.launchdarkly.com",
+    "enabled": 1,
+    "date_added": 1645140980,
+    "date_modified": 1645140980,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 116,
+    "type": 0,
+    "domain": "api2.branch.io",
+    "enabled": 1,
+    "date_added": 1645141005,
+    "date_modified": 1645141005,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 117,
+    "type": 0,
+    "domain": "inapps.appsflyer.com",
+    "enabled": 1,
+    "date_added": 1645141008,
+    "date_modified": 1645141008,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 118,
+    "type": 0,
+    "domain": "launches.appsflyer.com",
+    "enabled": 1,
+    "date_added": 1645141010,
+    "date_modified": 1645141010,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 119,
+    "type": 0,
+    "domain": "firebase-settings.crashlytics.com",
+    "enabled": 1,
+    "date_added": 1645141013,
+    "date_modified": 1645141013,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 121,
+    "type": 0,
+    "domain": "csi.gstatic.com",
+    "enabled": 1,
+    "date_added": 1645141070,
+    "date_modified": 1645141070,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 123,
+    "type": 0,
+    "domain": "cdn.branch.io",
+    "enabled": 1,
+    "date_added": 1645141080,
+    "date_modified": 1645141080,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 124,
+    "type": 0,
+    "domain": "md-a-c.apptimize.com",
+    "enabled": 1,
+    "date_added": 1645141085,
+    "date_modified": 1645141085,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 126,
+    "type": 0,
+    "domain": "graph.facebook.com",
+    "enabled": 1,
+    "date_added": 1645141112,
+    "date_modified": 1645141112,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 127,
+    "type": 0,
+    "domain": "md-a-s.apptimize.com",
+    "enabled": 1,
+    "date_added": 1645141117,
+    "date_modified": 1645141117,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 129,
+    "type": 0,
+    "domain": "sdk.iad-01.braze.com",
+    "enabled": 1,
+    "date_added": 1645141123,
+    "date_modified": 1645141123,
+    "comment": "Added from Query Log"
+  }
+]

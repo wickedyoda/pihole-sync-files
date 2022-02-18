@@ -1,0 +1,263 @@
+[
+  {
+    "id": 12,
+    "type": 0,
+    "domain": "clients4.google.com",
+    "enabled": 1,
+    "date_added": 1634365144,
+    "date_modified": 1634365144,
+    "comment": null
+  },
+  {
+    "id": 13,
+    "type": 0,
+    "domain": "clients2.google.com",
+    "enabled": 1,
+    "date_added": 1634365144,
+    "date_modified": 1634365144,
+    "comment": null
+  },
+  {
+    "id": 20,
+    "type": 0,
+    "domain": "xboxlive.com",
+    "enabled": 1,
+    "date_added": 1635639387,
+    "date_modified": 1635639390,
+    "comment": null
+  },
+  {
+    "id": 33,
+    "type": 0,
+    "domain": "socialize.gigya.com",
+    "enabled": 1,
+    "date_added": 1636414057,
+    "date_modified": 1636414057,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 34,
+    "type": 0,
+    "domain": "social.123dapp.com",
+    "enabled": 1,
+    "date_added": 1636414106,
+    "date_modified": 1636414106,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 37,
+    "type": 0,
+    "domain": "beacons5.gvt2.com",
+    "enabled": 1,
+    "date_added": 1638169063,
+    "date_modified": 1638169063,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 38,
+    "type": 0,
+    "domain": "webadvisorc.rest.gti.mcafee.com",
+    "enabled": 1,
+    "date_added": 1638169068,
+    "date_modified": 1638169068,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 39,
+    "type": 0,
+    "domain": "beacons5.gvt3.com",
+    "enabled": 1,
+    "date_added": 1638169075,
+    "date_modified": 1638169075,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 41,
+    "type": 0,
+    "domain": "device-messaging-na.amazon.com",
+    "enabled": 1,
+    "date_added": 1638169133,
+    "date_modified": 1638169133,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 42,
+    "type": 0,
+    "domain": "teredo.ipv6.microsoft.com",
+    "enabled": 1,
+    "date_added": 1638169137,
+    "date_modified": 1638169137,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 43,
+    "type": 0,
+    "domain": "fonts.gstatic.com",
+    "enabled": 1,
+    "date_added": 1638169141,
+    "date_modified": 1638169141,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 51,
+    "type": 0,
+    "domain": "f-log-extension.grammarly.io",
+    "enabled": 1,
+    "date_added": 1638411585,
+    "date_modified": 1638411585,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 56,
+    "type": 0,
+    "domain": "mip.api.mcafeewebadvisor.com",
+    "enabled": 1,
+    "date_added": 1638905073,
+    "date_modified": 1638905073,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 57,
+    "type": 0,
+    "domain": "nexusrules.officeapps.live.com",
+    "enabled": 1,
+    "date_added": 1638905082,
+    "date_modified": 1638905082,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 65,
+    "type": 0,
+    "domain": "teams.events.data.microsoft.com",
+    "enabled": 1,
+    "date_added": 1640298310,
+    "date_modified": 1640298310,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 67,
+    "type": 0,
+    "domain": "click.news.bncservices.com",
+    "enabled": 1,
+    "date_added": 1640649278,
+    "date_modified": 1640649278,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 68,
+    "type": 0,
+    "domain": "treatment.grammarly.com",
+    "enabled": 1,
+    "date_added": 1640740394,
+    "date_modified": 1640740394,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 69,
+    "type": 0,
+    "domain": "gnar.grammarly.com",
+    "enabled": 1,
+    "date_added": 1640740403,
+    "date_modified": 1640740403,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 88,
+    "type": 0,
+    "domain": "mobile.pipe.aria.microsoft.com",
+    "enabled": 1,
+    "date_added": 1642363357,
+    "date_modified": 1642363357,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 89,
+    "type": 0,
+    "domain": "vmware.tt.omtrdc.net",
+    "enabled": 1,
+    "date_added": 1642894879,
+    "date_modified": 1642894879,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 90,
+    "type": 0,
+    "domain": "g.live.com",
+    "enabled": 1,
+    "date_added": 1643249441,
+    "date_modified": 1643249441,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 95,
+    "type": 0,
+    "domain": "dvu.co1.qualtrics.com",
+    "enabled": 1,
+    "date_added": 1643753425,
+    "date_modified": 1643753425,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 98,
+    "type": 0,
+    "domain": "ws.mailtrack.io",
+    "enabled": 1,
+    "date_added": 1644286219,
+    "date_modified": 1644286219,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 101,
+    "type": 0,
+    "domain": "image.info.devry.edu",
+    "enabled": 1,
+    "date_added": 1644515704,
+    "date_modified": 1644515704,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 105,
+    "type": 0,
+    "domain": "cdn.levelaccess.net",
+    "enabled": 1,
+    "date_added": 1644533371,
+    "date_modified": 1644533371,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 106,
+    "type": 0,
+    "domain": "assets.adobedtm.com",
+    "enabled": 1,
+    "date_added": 1644533378,
+    "date_modified": 1644533378,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 113,
+    "type": 0,
+    "domain": "click.redditmail.com",
+    "enabled": 1,
+    "date_added": 1644866786,
+    "date_modified": 1644866786,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 116,
+    "type": 0,
+    "domain": "www.googleadservices.com",
+    "enabled": 1,
+    "date_added": 1644985299,
+    "date_modified": 1644985299,
+    "comment": "Added from Query Log"
+  },
+  {
+    "id": 117,
+    "type": 0,
+    "domain": "ca1.qualtrics.com",
+    "enabled": 1,
+    "date_added": 1645202308,
+    "date_modified": 1645202308,
+    "comment": "Added from Query Log"
+  }
+]
